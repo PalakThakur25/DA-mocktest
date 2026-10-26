@@ -32,3 +32,24 @@ Each folder contains 3 Python scripts (`1.py`, `2.py`, `3.py`).
 ## How to Run
 
 1. Clone the repository:
+
+```bash
+git clone https://github.com/PalakThakur25/DA-mocktest.git
+```
+
+2. Install the libraries:
+
+```bash
+pip install pandas numpy matplotlib
+```
+
+3. Run any script:
+
+```bash
+python PRACTICAL-6/3.py
+```
+
+## Author
+
+**Palak Thakur**
+GitHub: [PalakThakur25](https://github.com/PalakThakur25)
